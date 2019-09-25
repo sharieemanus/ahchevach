@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lualaiphie.dujinghua.cn/sitemap.xml
